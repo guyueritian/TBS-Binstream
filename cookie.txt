@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.hdtvvip.com	TRUE	/	FALSE	1543241395	connect.sid	s%3AFtC6eNS5u-Qujqf3qLRJTSsRpViBnMY-.LgofljXrc9JBk2zdZ%2BTn1T9VcGtKGfbOtmv42JW33Nk
